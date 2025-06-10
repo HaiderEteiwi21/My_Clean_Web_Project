@@ -1,0 +1,71 @@
+#everything{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+}
+#myInput{
+    font-size: 1em;
+    font-weight: bold;
+    width: fit-content;
+    text-align: center;
+}
+#generatebtn{
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hsl(212, 100%, 49%);
+    color: white;
+    border-radius: 15px;
+    padding: 15px 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 30px;
+    font-weight: bold;
+}
+#generatebtn:hover{
+    background-color: hsl(212, 95%, 24%);
+}
+
+#generatebtn:active{
+    background-color: hsl(212, 91%, 79%);
+}
+
+#resetbtn{
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hsl(0, 100%, 49%);
+    color: white;
+    border-radius: 15px;
+    padding: 15px 10px;
+    border: none;
+    cursor: pointer;
+    margin-left: 30px ;
+    font-weight: bold;
+}
+
+#resetbtn:hover{
+    background-color: hsl(350, 94%, 20%);
+}
+
+#resetbtn:active{
+    background-color: hsl(350, 75%, 66%);
+}
+
+.links{
+    font-size: 2em;
+    text-align: center;
+  margin: auto;
+    width: fit-content;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+.links a{
+ text-decoration: none;
+ color: hsl(197, 100%, 50%);
+ 
+}
+.links a:hover{
+    color: aqua;
+    
+}

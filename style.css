@@ -1,0 +1,220 @@
+/* PAGE 1*/
+
+#everything{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.259);
+  border-radius: 10px;
+}
+.paragraph{
+    font-size: 1.2em;
+}
+#mynote{
+    font-size: 1.5em;
+    color: red;
+}
+#javabig{
+    background-color: red;
+    color: black;
+}
+#somethings{
+    color: green;
+    font-weight: bold;
+    font-size: 2.5em;
+}
+#me{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+}
+#future{
+    color: hsl(39, 100%, 51%);
+    font-size: 2.5em;
+}
+.marking{
+    background-color: yellow;
+    color: black;
+
+}
+#do{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+}
+#cv{
+    text-align: center;
+    margin-top: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.259);
+  border-radius: 10px;
+    width: fit-content;
+    padding: 20px;
+    margin: auto;
+}
+#cv a{
+    font-size: 35px;
+    color: rgb(65, 30, 223);
+    text-decoration: none;
+    font-weight: bold;
+   margin: 10px 0;
+}
+#cv a:hover{
+    color: orangered;
+  text-decoration: underline;
+}
+.MIS{
+    color: blue;
+}
+hr {
+  width: 100vw; /* Full viewport width */
+  position: relative;
+  left: -45px; /* Adjust as needed */
+  
+}
+
+
+
+/* PAGE 2*/
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+#myinput{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    padding: 10px 15px;
+    box-shadow: rgba(0, 0, 0, 0.259)
+    
+}
+
+#myp{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2em;
+
+}
+#mybutton{
+    font-size: 1.3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-top: 25px;
+    background-color: #0052a9;
+    color: white;
+    cursor: pointer;
+    
+}
+#mybutton:hover{
+    background-color: #000000;
+}
+#mybutton:active{
+    background-color: #012851;
+}
+.mats{
+    font-size: 1em;
+}
+#mylabel{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    border-radius: 3%;
+width: 200px;
+height: 50px;
+    
+
+}
+#myH1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+#mysubmit{
+    font-size: 1.3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-top: 25px;
+    background-color: #ff0000;
+    color: white;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.para{
+    
+    font-size: 1em;
+}
+#page3{
+    text-align: center;
+}
+#page3 a{
+    font-size: 2em;
+    text-align: center;
+  margin: auto;
+    width: fit-content;
+    padding: 10px;
+    text-decoration: none;
+}
+#page3 a:hover{
+    color: aqua;
+}
+
+/* PAGE 3*/
+#description{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#contains_everything{
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   border: none;
+  padding: 10px;
+  width: fit-content;
+ font-size: 1rem;
+  margin: auto;
+}
+#input_dice{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+#label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    font-weight: bold;
+}
+#button{
+    font-size: 2em;
+    font-weight: bold;
+    background-color: hsl(293, 93%, 50%);
+    color: white;
+    cursor: pointer;
+    border: none;
+    padding: 15px;
+    border-radius: 15px 10px;
+}
+#button:hover{
+      background-color: hsl(294, 93%, 18%);
+}
+#button:active{
+    background-color: hsl(295, 89%, 72%);
+}
+
+.links{
+    font-size: 2em;
+    text-align: center;
+  margin: auto;
+    width: fit-content;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+.links a{
+ text-decoration: none;
+ color: hsl(197, 100%, 50%);
+ 
+}
+.links a:hover{
+    color: aqua;
+    
+}
